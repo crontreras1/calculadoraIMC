@@ -1,0 +1,15 @@
+.header div img {
+    width: 30vw;
+    margin: 20px 2.5em;
+}
+.main section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main__form {
+    width: 40vw;
+}
+.main__table img {
+    width: 40vw;
+}
